@@ -4,3 +4,64 @@
     padding: 5px;
     margin: 0;
 }
+
+#quote-box{
+    width: 100%;
+    height: 100%;
+}
+#text
+{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 30px;
+    max-height: 55%;
+    font-family: "Noto Sans Georgian";
+}
+#author
+{
+    margin-top: 2%;
+    text-align: right;
+}
+#tweet-quote,#new-quote
+{
+    position: absolute;
+    bottom: 10%;
+}
+#tweet-quote,#new-quote {
+
+    background-color: #007bff; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interior para que se vea más grande y atractivo */
+    border: none; /* Quitamos el borde */
+    border-radius: 5px; /* Añadimos esquinas redondeadas */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambiamos el cursor al pasar por encima */
+    transition: background-color 0.3s ease; /* Transición suave para el color de fondo */
+}
+#new-quote
+{
+    right: 3%;
+}
+
+
+
+#new-quote:hover {
+    background-color: #0056b3; /* Color de fondo cuando el cursor está encima */
+}
+#text,
+#author,
+#tweet-quote,
+#new-quote {
+    transition: color 1s ease; /* Transición suave para el color del texto */
+    font-weight: bold;
+}
+#quote-box {
+    transition: background-color 1s ease; /* Transición suave para el fondo */
+}
+#firma {
+    position: absolute;
+    bottom: -40px;
+    left : 40%;
+    color: grey;
+
+}

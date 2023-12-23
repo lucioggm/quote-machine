@@ -18,5 +18,12 @@ export const Dataquotes = [
     {
         author: "Mahatma Gandhi",
         quote: "Sé el cambio que quieres ver en el mundo."
+    },
+    {
+        author: "Hormigas",
+        quote: "Sabas se la come"
     }
 ];
+
+export const Colores = ["#95b8f6","#add5fa","#f9d99a",
+"#f9a59a","#fa5f49"]
