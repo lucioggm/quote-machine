@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/quote-machine/static/css/main.1b8e516e.css",
-    "main.js": "/quote-machine/static/js/main.47f58fa7.js",
+    "main.css": "/quote-machine/static/css/main.5e0c10df.css",
+    "main.js": "/quote-machine/static/js/main.019b6d96.js",
     "index.html": "/quote-machine/index.html",
-    "main.1b8e516e.css.map": "/quote-machine/static/css/main.1b8e516e.css.map",
-    "main.47f58fa7.js.map": "/quote-machine/static/js/main.47f58fa7.js.map"
+    "main.5e0c10df.css.map": "/quote-machine/static/css/main.5e0c10df.css.map",
+    "main.019b6d96.js.map": "/quote-machine/static/js/main.019b6d96.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b8e516e.css",
-    "static/js/main.47f58fa7.js"
+    "static/css/main.5e0c10df.css",
+    "static/js/main.019b6d96.js"
   ]
 }
